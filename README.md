@@ -1,2 +1,2 @@
-# Doggo
-Um projeto sobre Programadores
+# LittleGit
+Um pegueno Github
