@@ -1,2 +1,2 @@
 # LittleGit
-Um pegueno Github
+Um pequeno Github
